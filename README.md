@@ -112,7 +112,7 @@ Connect
 
 Open to technical discussions, knowledge sharing, and learning opportunities.
 
-  <br />  <a href="https://github.com/alixs58">
+  <br />  <a href="https://github.com/tornado-22">
     <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-303b32?style=for-the-badge&logo=github&logoColor=a9b99a" alt="GitHub" />
   </a>
   <a href="https://1tornado.netlify.app">
