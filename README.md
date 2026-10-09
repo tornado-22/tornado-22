@@ -1,12 +1,12 @@
 <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10100f,50:303b32,100:718164&height=220&section=header&text=TORNADO&fontSize=68&fontColor=a9b99a&fontAlignY=38&desc=Building%20Ideas%20Into%20Technology&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="TORNADO banner" />  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A9B99A&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Digital+Forensics+Learner;Always+Building.+Always+Learning." alt="Typing introduction" />  <br />Software Developer · Cybersecurity Enthusiast · Digital Forensics Learner
 
-  <br />  <a href="https://github.com/alixs58">
+  <br />  <a href="https://github.com/tornado-22">
     <img src="https://img.shields.io/badge/GitHub-alixs58-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
   </a>
   <a href="https://1tornado.netlify.app">
     <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Personal website" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=alixs58&style=flat-square&color=303b32&label=PROFILE+VIEWS" alt="Profile views" /></div>---
+  <img src="https://komarev.com/ghpvc/?username=tornado-22&style=flat-square&color=303b32&label=PROFILE+VIEWS" alt="Profile views" /></div>---
 
 "whoami"
 
