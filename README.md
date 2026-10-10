@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A9B99A&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Digital+Forensics+Learner;Always+Building.+Always+Learning." alt="Typing introduction" />  
   <br />
   <strong>Software Developer · Cybersecurity Enthusiast · Digital Forensics Learner</strong>
-
   <br /><br />  
   <div style="display: flex; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
     <a href="https://github.com/tornado-22">
