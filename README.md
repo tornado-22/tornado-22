@@ -1,184 +1,240 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10100f,45:303b32,100:718164&height=240&section=header&text=TORNADO&fontSize=76&fontColor=a9b99a&fontAlignY=36&desc=BUILDING%20IDEAS%20INTO%20TECHNOLOGY&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="TORNADO — Building Ideas Into Technology" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A9B99A&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Digital+Forensics+Learner;Discord+Bot+Developer;Building.+Breaking.+Understanding.+Improving." alt="Introduction animation" /><br />Software Developer · Cybersecurity · Digital Forensics
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a09,35:171716,70:303b32,100:718164&height=240&section=header&text=TORNADO&fontSize=78&fontColor=a9b99a&fontAlignY=36&desc=BUILDING%20IDEAS%20INTO%20TECHNOLOGY&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="TORNADO — Building Ideas Into Technology" /><br /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=A9B99A&center=true&vCenter=true&width=680&lines=Software+Developer;Cybersecurity+Enthusiast;Digital+Forensics+Learner;Discord+Bot+Developer;Understand.+Build.+Investigate.+Improve." alt="TORNADO introduction" /><br /><br />
 
-Curiosity drives discovery. Discipline turns it into progress.
+SOFTWARE DEVELOPMENT   /   CYBERSECURITY   /   DIGITAL FORENSICS
 
-<br /><a href="https://github.com/tornado-22">
-  <img src="https://img.shields.io/badge/GitHub-tornado--22-303b32?style=for-the-badge&logo=github&logoColor=a9b99a" alt="GitHub Profile" />
+<br />Turning curiosity into knowledge, and knowledge into practical solutions.
+
+<br /><br />
+
+<a href="https://github.com/tornado-22">
+  <img src="https://img.shields.io/badge/GITHUB-tornado--22-303b32?style=for-the-badge&logo=github&logoColor=a9b99a" alt="GitHub" />
 </a>
-<a href="https://1tornado.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-TORNADO-303b32?style=for-the-badge&logo=googlechrome&logoColor=a9b99a" alt="Personal Website" />
+&nbsp;
+<a href="https://tornado.falix.org">
+  <img src="https://img.shields.io/badge/WEBSITE-TORNADO-303b32?style=for-the-badge&logo=googlechrome&logoColor=a9b99a" alt="TORNADO website" />
 </a><br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=tornado-22&style=flat-square&color=718164&label=PROFILE+VIEWS" alt="Profile views" /></div>---
+<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Security-171716?style=flat-square&labelColor=303b32" alt="Software and security" />
+<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-171716?style=flat-square&labelColor=303b32" alt="Always learning" /></div>---
 
-"whoami"
+"01"   /   WHOAMI
 
-I'm a software developer with a growing interest in cybersecurity, system internals, and digital forensics.
+┌──(tornado㉿workspace)-[~]
+└─$ whoami
 
-I enjoy exploring how software works beneath the surface, building practical applications, automating repetitive tasks, and understanding the security principles that make systems more reliable.
+Software Developer
+Cybersecurity Enthusiast
+Digital Forensics Learner
+Discord Bot Developer
 
-My approach is built around hands-on experimentation, continuous learning, and technical problem-solving. Rather than treating technology as a black box, I aim to understand the mechanisms behind it.
+I'm a developer interested in understanding how technology works, from the code behind applications to the systems and networks that support them.
 
-┌─────────────────────────────────────────────┐
-│                  TORNADO                    │
-├─────────────────────────────────────────────┤
-│  Focus       Software Engineering           │
-│  Exploring   Cybersecurity                  │
-│  Learning    Digital Forensics              │
-│  Building    Applications & Discord Bots    │
-│  Philosophy  Understand. Build. Improve.    │
-└─────────────────────────────────────────────┘
+I enjoy building practical software, developing Discord bots, automating tasks, and exploring the principles behind secure and reliable applications.
 
-Current Focus
+Beyond development, I'm expanding my knowledge of Linux, computer networking, cybersecurity, and digital forensics through hands-on learning and technical research.
 
-- Software Development — Building applications, backend systems, and practical tools.
-- Cybersecurity — Learning network security, vulnerability analysis, and defensive techniques.
-- Discord Engineering — Developing bots, automation systems, and interactive Discord applications.
-- Digital Forensics — Studying digital evidence, system artifacts, file systems, and investigation methodologies.
-- Linux & Networking — Strengthening my understanding of operating systems, command-line tools, and network fundamentals.
+My approach is straightforward: understand the fundamentals, experiment responsibly, solve problems methodically, and keep improving.
 
-«My long-term goal is to combine software engineering and cybersecurity knowledge to build reliable systems and develop the skills needed for methodical digital investigations.»
+«Build with purpose. Understand the system. Investigate with evidence. Improve continuously.»
 
 ---
 
-Areas of Interest
+"02"   /   AREAS OF INTEREST
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Software Engineering</h3>
-      Building maintainable applications, exploring backend development, improving code quality, and solving practical technical problems.
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Cybersecurity</h3>
-      Exploring security fundamentals, network behavior, vulnerability assessment, secure coding, and defensive security.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Discord Engineering</h3>
-      Developing Discord bots, server automation, command systems, interactive interfaces, and API integrations.
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Digital Forensics</h3>
-      Learning evidence preservation, file-system analysis, system artifacts, investigative workflows, and incident analysis.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">01 — Software Engineering
+
+Developing practical applications with an emphasis on readable code, maintainability, logical problem-solving, and reliable functionality.
+
+</td>
+<td width="50%" valign="top">02 — Cybersecurity
+
+Exploring security fundamentals, vulnerabilities, network behavior, threat analysis, and defensive security practices.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">03 — Discord Engineering
+
+Building Discord bots, automation systems, command handlers, interactive interfaces, and integrations with Discord APIs.
+
+</td>
+<td width="50%" valign="top">04 — Digital Forensics
+
+Learning about digital evidence, file systems, system artifacts, evidence preservation, and structured investigation methodologies.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">05 — Linux & Systems
+
+Developing practical knowledge of Linux, shell commands, permissions, processes, services, and operating-system fundamentals.
+
+</td>
+<td width="50%" valign="top">06 — Secure Development
+
+Understanding authentication, authorization, input validation, secure configuration, and common application security risks.
+
+</td>
+</tr>
 </table>---
 
-Technical Stack
+"03"   /   TECHNICAL TOOLKIT
 
 Languages & Technologies
 
-<div align="center"><img src="https://skillicons.dev/icons?i=js,python,html,css,php,lua,mysql&theme=dark" alt="Programming languages and technologies" /><br /><br />
+<div align="center"><img src="https://skillicons.dev/icons?i=js,python,html,css,php,lua,mysql&theme=dark" alt="JavaScript, Python, HTML, CSS, PHP, Lua, and MySQL" /><br /><br />
 
-Tools & Environments
+Development Environment
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode&theme=dark" alt="Development tools and environments" /></div>Technical Overview
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode&theme=dark" alt="Node.js, Git, GitHub, Linux, and Visual Studio Code" /></div>Technology| Focus
+"JavaScript"| Application logic, automation, and backend development
+"Python"| Scripting, automation, and technical experimentation
+"HTML / CSS"| Web development, layouts, and interface design
+"PHP"| Server-side programming and web fundamentals
+"MySQL / SQL"| Relational databases and data management
+"Lua"| Scripting and application-specific development
+"Node.js"| JavaScript runtime and backend tooling
+"Git / GitHub"| Version control and source management
+"Linux"| Command-line operations and system fundamentals
 
-Technology| Primary Focus
-JavaScript| Application logic, automation, and backend development
-Python| Scripting, automation, and technical experimentation
-HTML & CSS| Web development, responsive layouts, and user interfaces
-PHP| Server-side programming and web application fundamentals
-SQL / MySQL| Relational databases and data management fundamentals
-Lua| Scripting and application-specific development
-Node.js| JavaScript runtime, backend services, and tooling
-Git & GitHub| Version control, source management, and collaboration
-Linux| Command-line operations and system administration fundamentals
-
-<sub>My experience and proficiency vary across technologies as I continue developing my skills.</sub>
+<sub>My proficiency varies by technology as I continue learning and developing practical experience.</sub>
 
 ---
 
-Learning Roadmap
+"04"   /   CURRENT LEARNING PATH
 
-I'm working toward a stronger technical foundation through structured learning, documentation, and practical exercises.
+FOUNDATIONS
+    |
+    +-- Linux & Operating Systems
+    |       +-- Shell commands
+    |       +-- Permissions & processes
+    |       +-- Filesystems & services
+    |
+    +-- Computer Networking
+    |       +-- TCP/IP & DNS
+    |       +-- HTTP & network ports
+    |       +-- Traffic analysis
+    |
+    +-- Cybersecurity
+    |       +-- Security fundamentals
+    |       +-- Vulnerability assessment
+    |       +-- Defensive techniques
+    |
+    +-- Digital Forensics
+    |       +-- Evidence preservation
+    |       +-- Filesystem artifacts
+    |       +-- Investigation workflows
+    |
+    +-- Secure Software Development
+            +-- Input validation
+            +-- Authentication & authorization
+            +-- Secure application design
 
-<table>
-  <thead>
-    <tr>
-      <th>Domain</th>
-      <th>Learning Objectives</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Linux & Operating Systems</strong></td>
-      <td>Permissions, processes, services, file systems, shell usage, and system internals.</td>
-    </tr>
-    <tr>
-      <td><strong>Computer Networking</strong></td>
-      <td>TCP/IP, DNS, HTTP, ports, routing, network troubleshooting, and packet analysis.</td>
-    </tr>
-    <tr>
-      <td><strong>Cybersecurity</strong></td>
-      <td>Security fundamentals, threat modeling, vulnerability assessment, and defensive techniques.</td>
-    </tr>
-    <tr>
-      <td><strong>Digital Forensics</strong></td>
-      <td>Evidence integrity, forensic acquisition, file-system artifacts, timelines, and investigation methods.</td>
-    </tr>
-    <tr>
-      <td><strong>Secure Development</strong></td>
-      <td>Input validation, authentication, authorization, secure configuration, and application security.</td>
-    </tr>
-    <tr>
-      <td><strong>Computer Science</strong></td>
-      <td>Data structures, algorithms, debugging, problem-solving, and software architecture.</td>
-    </tr>
-  </tbody>
-</table>---
+My objective is to develop a solid foundation before progressing toward more advanced technical work.
 
-Learning Resources
+I prioritize understanding the underlying concepts, practicing in authorized environments, documenting what I learn, and applying that knowledge to real technical problems.
+
+---
+
+"05"   /   LEARNING RESOURCES
 
 <div align="center"><a href="https://cs50.harvard.edu/">
-  <img src="https://img.shields.io/badge/Harvard-CS50-303b32?style=for-the-badge&logo=edx&logoColor=a9b99a" alt="Harvard CS50" />
-</a>
-<a href="https://www.freecodecamp.org/">
-  <img src="https://img.shields.io/badge/freeCodeCamp-Development-303b32?style=for-the-badge&logo=freecodecamp&logoColor=a9b99a" alt="freeCodeCamp" />
-</a>
-<a href="https://owasp.org/">
-  <img src="https://img.shields.io/badge/OWASP-Application%20Security-303b32?style=for-the-badge&logo=owasp&logoColor=a9b99a" alt="OWASP" />
-</a>
-<a href="https://www.kernel.org/doc/html/latest/">
-  <img src="https://img.shields.io/badge/Linux-Kernel%20Docs-303b32?style=for-the-badge&logo=linux&logoColor=a9b99a" alt="Linux Kernel Documentation" />
-</a>
-<a href="https://portswigger.net/web-security">
-  <img src="https://img.shields.io/badge/PortSwigger-Web%20Security-303b32?style=for-the-badge&logo=portswigger&logoColor=a9b99a" alt="PortSwigger Web Security Academy" />
-</a>
-<a href="https://tryhackme.com/">
-  <img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-303b32?style=for-the-badge&logo=tryhackme&logoColor=a9b99a" alt="TryHackMe" />
-</a></div>These resources support my ongoing learning. Listing a resource does not imply course completion, certification, or professional qualification.
+<img src="https://img.shields.io/badge/CS50-Computer%20Science-303b32?style=for-the-badge&logo=edx&logoColor=a9b99a" alt="CS50" />
+</a><a href="https://www.freecodecamp.org/">
+<img src="https://img.shields.io/badge/freeCodeCamp-Programming-303b32?style=for-the-badge&logo=freecodecamp&logoColor=a9b99a" alt="freeCodeCamp" />
+</a><a href="https://owasp.org/">
+<img src="https://img.shields.io/badge/OWASP-Web%20Security-303b32?style=for-the-badge&logo=owasp&logoColor=a9b99a" alt="OWASP" />
+</a><a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-Security%20Academy-303b32?style=for-the-badge&logo=portswigger&logoColor=a9b99a" alt="PortSwigger Web Security Academy" />
+</a><a href="https://tryhackme.com/">
+<img src="https://img.shields.io/badge/TryHackMe-Practical%20Labs-303b32?style=for-the-badge&logo=tryhackme&logoColor=a9b99a" alt="TryHackMe" />
+</a><a href="https://www.kernel.org/doc/html/latest/">
+<img src="https://img.shields.io/badge/Linux-Kernel%20Documentation-303b32?style=for-the-badge&logo=linux&logoColor=a9b99a" alt="Linux Kernel Documentation" />
+</a></div><sub>These are resources for learning and reference, not a claim of course completion or certification.</sub>
 
 ---
 
-Development Philosophy
+"06"   /   DEVELOPMENT PRINCIPLES
 
-<div align="center">Principle| Meaning
-Understand| Learn how systems work before attempting to modify them.
-Build| Turn ideas into practical projects and useful tools.
-Investigate| Approach technical problems with curiosity and evidence.
-Secure| Consider reliability, privacy, and security throughout development.
-Improve| Learn from mistakes, feedback, documentation, and experimentation.
+<table>
+<tr>
+<td align="center" width="20%">UNDERSTAND
 
-</div>---
+</td>
+<td width="80%">Learn how a system works before attempting to change or troubleshoot it.
 
-Connect
+</td>
+</tr>
+<tr>
+<td align="center">BUILD
 
-<div align="center">Interested in software development, Discord engineering, cybersecurity, or digital forensics?
+</td>
+<td>Turn ideas into useful applications and practical technical solutions.
 
-I'm open to technical discussions, knowledge sharing, collaborative projects, and opportunities to learn from others.
+</td>
+</tr>
+<tr>
+<td align="center">INVESTIGATE
+
+</td>
+<td>Analyze problems methodically and base conclusions on evidence.
+
+</td>
+</tr>
+<tr>
+<td align="center">SECURE
+
+</td>
+<td>Consider reliability, security, and privacy throughout development.
+
+</td>
+</tr>
+<tr>
+<td align="center">IMPROVE
+
+</td>
+<td>Learn from mistakes, documentation, experimentation, and feedback.
+
+</td>
+</tr>
+</table>---
+
+"07"   /   BEYOND THE CODE
+
+I believe strong technical skills come from more than writing code.
+
+They require patience, curiosity, critical thinking, attention to detail, and the ability to break complex problems into manageable parts.
+
+Whether I'm developing an application, learning a new system, or studying digital investigation techniques, I aim to understand the details rather than settle for surface-level answers.
+
+My long-term direction is to combine software development, security knowledge, and analytical thinking into a well-rounded technical skill set.
+
+---
+
+"08"   /   CONNECT
+
+<div align="center">Have a technical question, an interesting idea, or a topic worth exploring?
+
+I'm open to technical discussions, knowledge sharing, collaboration, and learning opportunities related to software development and cybersecurity.
 
 <br /><a href="https://github.com/tornado-22">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-303b32?style=for-the-badge&logo=github&logoColor=a9b99a" alt="Explore GitHub projects" />
-</a>
-<a href="https://1tornado.netlify.app">
-  <img src="https://img.shields.io/badge/Website-Visit%20TORNADO-303b32?style=for-the-badge&logo=googlechrome&logoColor=a9b99a" alt="Visit TORNADO website" />
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-a9b99a?style=for-the-badge&logo=github&logoColor=10100f" alt="Visit GitHub" />
+</a><a href="https://tornado.falix.org">
+<img src="https://img.shields.io/badge/Website-Visit%20TORNADO-303b32?style=for-the-badge&logo=googlechrome&logoColor=a9b99a" alt="Visit TORNADO website" />
 </a><br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:718164,50:303b32,100:10100f&height=130&section=footer" width="100%" alt="TORNADO footer" />TORNADO
+<a href="https://github.com/tornado-22">
+`github.com/tornado-22`
+</a><br /><a href="https://tornado.falix.org">
+`tornado.falix.org`
+</a><br /><br />
 
-<sub>Built with curiosity, driven by discipline, improved through continuous learning.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:718164,40:303b32,75:171716,100:0a0a09&height=150&section=footer" width="100%" alt="TORNADO footer" />T O R N A D O
+
+Curiosity in thought. Precision in execution. Progress through learning.
+
+<sub>© TORNADO · Building ideas into technology.</sub>
 
 </div>
