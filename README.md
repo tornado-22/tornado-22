@@ -6,7 +6,7 @@
 
   <br /><br />  
   <a href="https://github.com/tornado-22">
-    <img src="https://img.shields.io/badge/GitHub-alixs58-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-tornado--22-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
   </a>
   <a href="https://tornado.falix.org">
     <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Personal website" />
