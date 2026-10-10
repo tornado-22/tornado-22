@@ -5,13 +5,15 @@
   <strong>Software Developer · Cybersecurity Enthusiast · Digital Forensics Learner</strong>
 
   <br /><br />  
-  <a href="https://github.com/tornado-22">
-    <img src="https://img.shields.io/badge/GitHub-tornado--22-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
-  </a>
-  <a href="https://tornado.falix.org">
-    <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Personal website" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=tornado-22&style=flat-square&color=718164&label=PROFILE+VIEWS" alt="Profile views" />
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://github.com/tornado-22">
+      <img src="https://img.shields.io/badge/GitHub-tornado--22-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
+    </a>
+    <a href="https://tornado.falix.org">
+      <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Personal website" />
+    </a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=tornado-22&label=PROFILE%20VIEWS&countColor=%23718164&style=flat-square" alt="Profile views" />
+  </div>
 </div>
 
 ---
@@ -81,15 +83,6 @@ My approach combines hands-on development with continuous learning. I focus on s
 | **Linux** | Command-line fundamentals and system administration |
 
 *This toolkit reflects technologies I work with or explore; proficiency varies by technology.*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tornado-22&show_icons=true&hide_border=true&bg_color=10100f&text_color=a9b99a&icon_color=718164&title_color=718164" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tornado-22&layout=compact&hide_border=true&bg_color=10100f&text_color=a9b99a&title_color=718164" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
