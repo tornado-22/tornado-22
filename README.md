@@ -116,7 +116,6 @@ I'm focused on building a stronger foundation in the following areas:
     <img src="https://img.shields.io/badge/OWASP-Web_Security-303b32?style=flat-square" alt="OWASP" />
   </a>
 </p>
-<sub>*These are learning resources, not a claim of course completion or certification.*</sub>
 
 ---
 
