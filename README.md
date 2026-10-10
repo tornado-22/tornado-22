@@ -1,52 +1,124 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10100f,100:303b32&height=180&section=header&text=TORNADO&fontSize=64&fontColor=a9b99a&fontAlignY=40&animation=fadeIn" width="100%" alt="TORNADO" />Software Developer · Cybersecurity Enthusiast · Digital Forensics Learner
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10100f,50:303b32,100:718164&height=220&section=header&text=TORNADO&fontSize=68&fontColor=a9b99a&fontAlignY=38&desc=Building%20Ideas%20Into%20Technology&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="TORNADO banner" />  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A9B99A&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Digital+Forensics+Learner;Always+Building.+Always+Learning." alt="Typing introduction" />  <br />Software Developer · Cybersecurity Enthusiast · Digital Forensics Learner
 
-Building software, exploring security, and learning how systems work.
+  <br />  <a href="https://github.com/tornado-22">
+    <img src="https://img.shields.io/badge/GitHub-alixs58-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub profile" />
+  </a>
+  <a href="https://1tornado.netlify.app">
+    <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Personal website" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tornado-22&style=flat-square&color=303b32&label=PROFILE+VIEWS" alt="Profile views" /></div>---
 
-<br><a href="https://github.com/tornado-22">
-  <img src="https://img.shields.io/badge/GitHub-tornado--22-303b32?style=flat-square&logo=github&logoColor=a9b99a" alt="GitHub" />
-</a>
-<a href="https://tornado.falix.org">
-  <img src="https://img.shields.io/badge/Website-TORNADO-303b32?style=flat-square&logo=googlechrome&logoColor=a9b99a" alt="Website" />
-</a></div>About Me
+"whoami"
 
-I'm a developer interested in software engineering, cybersecurity, and digital forensics.
+I'm a developer with a strong interest in software engineering, cybersecurity, and digital forensics. I enjoy understanding how systems work, building practical applications, and exploring the technical principles behind secure and reliable software.
 
-I enjoy building applications, developing Discord bots, automating tasks, and understanding the systems behind the technology I use.
+My approach combines hands-on development with continuous learning. I focus on strengthening my programming fundamentals, improving my understanding of operating systems and networks, and developing the analytical skills needed to investigate digital environments.
 
-Currently, I'm strengthening my foundations in Linux, networking, secure development, and digital investigation.
+- Development: Building applications and practical software solutions.
+- Cybersecurity: Exploring system security, vulnerabilities, and defensive techniques.
+- Digital Forensics: Learning how digital evidence is identified, preserved, and analyzed.
+- Continuous Learning: Expanding my technical knowledge through documentation, coursework, and practical exercises.
 
-Technologies
+«My goal is to become a well-rounded technical professional who can build reliable software, understand security risks, and investigate digital incidents methodically.»
+
+---
+
+Areas of Interest
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Software Engineering</h3>
+      Designing, developing, and improving applications with an emphasis on readable code, maintainability, and practical problem-solving.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cybersecurity</h3>
+      Learning about operating systems, networking, vulnerability analysis, security fundamentals, and defensive practices.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Discord Engineering</h3>
+      Developing Discord bots, automation systems, interactive interfaces, and tools using the Discord API.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital Forensics</h3>
+      Exploring evidence acquisition, forensic methodologies, file systems, system artifacts, and incident investigation.
+    </td>
+  </tr>
+</table>---
+
+Technical Toolkit
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,php,lua,mysql&theme=dark" alt="JavaScript, Python, HTML, CSS, PHP, Lua, and MySQL" />Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,html,php,lua,mysql&theme=dark" alt="Programming languages" />
+</p>Tools & Environments
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode&theme=dark" alt="Node.js, Git, GitHub, Linux, and VS Code" />Areas of Interest
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,linux,vscode&theme=dark" alt="Development tools" />
+</p>Technology| Focus
+JavaScript| Application logic, automation, and backend development
+Python| Scripting, automation, and technical experimentation
+HTML & CSS| Web structure, interface development, and responsive layouts
+PHP & SQL| Server-side programming and database fundamentals
+Lua| Scripting and application-specific development
+Node.js| JavaScript runtime and backend tooling
+Git & GitHub| Version control and source code management
+Linux| Command-line fundamentals and system administration
 
-- Software Development: Application development, automation, and backend systems.
-- Cybersecurity: Security fundamentals, vulnerability analysis, and defensive techniques.
-- Digital Forensics: Digital evidence, file systems, and forensic investigation.
-- Linux & Networking: Operating systems, network protocols, and system administration.
-- Discord Development: Bots, integrations, and server automation.
+This toolkit reflects technologies I work with or explore; proficiency varies by technology.
 
-Currently Learning
+---
 
-- Linux and operating system fundamentals
-- Computer networking and TCP/IP
-- Cybersecurity and secure coding
-- Digital forensics and evidence analysis
-- Data structures and algorithms
+Learning Priorities
+
+I'm focused on building a stronger foundation in the following areas:
+
+Area| Learning Focus
+Linux & Operating Systems| Command-line proficiency, permissions, processes, and system internals
+Networking| TCP/IP, DNS, HTTP, ports, and network troubleshooting
+Cybersecurity Fundamentals| Threat modeling, security principles, and vulnerability assessment
+Digital Forensics| Evidence handling, file-system analysis, and forensic investigation
+Secure Development| Input validation, authentication, authorization, and secure coding
+Programming| Data structures, algorithms, debugging, and software architecture
 
 Learning Resources
 
-<a href="https://cs50.harvard.edu/">CS50</a> · <a href="https://www.freecodecamp.org/">freeCodeCamp</a> · <a href="https://owasp.org/">OWASP</a> · <a href="https://portswigger.net/web-security">PortSwigger Academy</a> · <a href="https://tryhackme.com/">TryHackMe</a>
+<p>
+  <a href="https://cs50.harvard.edu/">
+    <img src="https://img.shields.io/badge/CS50-Harvard-303b32?style=flat-square" alt="Harvard CS50" />
+  </a>
+  <a href="https://www.freecodecamp.org/">
+    <img src="https://img.shields.io/badge/freeCodeCamp-Programming-303b32?style=flat-square" alt="freeCodeCamp" />
+  </a>
+  <a href="https://www.eccouncil.org/">
+    <img src="https://img.shields.io/badge/EC--Council-Cybersecurity-303b32?style=flat-square" alt="EC-Council" />
+  </a>
+  <a href="https://www.kernel.org/doc/html/latest/">
+    <img src="https://img.shields.io/badge/Linux-Kernel_Documentation-303b32?style=flat-square" alt="Linux documentation" />
+  </a>
+  <a href="https://owasp.org/">
+    <img src="https://img.shields.io/badge/OWASP-Web_Security-303b32?style=flat-square" alt="OWASP" />
+  </a>
+</p>These are learning resources, not a claim of course completion or certification.
+
+---
 
 Connect
 
-Interested in software development, cybersecurity, or digital forensics? Feel free to connect.
+<div align="center">Interested in development, cybersecurity, or digital forensics?
 
-<a href="https://github.com/tornado-22">GitHub</a> · <a href="https://tornado.falix.org">Personal Website</a>
+Open to technical discussions, knowledge sharing, and learning opportunities.
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:303b32,100:10100f&height=90&section=footer" width="100%" alt="" /><sub>TORNADO · Always building. Always learning.</sub>
+  <br />  <a href="https://github.com/tornado-22">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-303b32?style=for-the-badge&logo=github&logoColor=a9b99a" alt="GitHub" />
+  </a>
+  <a href="https://1tornado.netlify.app">
+    <img src="https://img.shields.io/badge/Website-Visit%20TORNADO-303b32?style=for-the-badge&logo=googlechrome&logoColor=a9b99a" alt="Website" />
+  </a><br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:718164,50:303b32,100:10100f&height=100&section=footer" width="100%" alt="Footer banner" /><sub>TORNADO · Built with curiosity, discipline, and a commitment to continuous improvement.</sub>
 
 </div>
